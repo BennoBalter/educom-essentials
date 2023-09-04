@@ -1,1 +1,16 @@
-test gegevensformaten
+Voorbeelden gegevensformaten:
+
+Voorbeeld 1:
+Markdown:
+
+Namen van alle familieleden:  (hoge leeftijd is schuingedrukt, lage leeftijd is dikgedrukt)
+
+- *John*
+- Sara
+- Maick
+- __Emma__
+- David
+
+Rapport:
+Uit voorbeeld 1 kunnen alle namen van de familieleden gehaald worden. 
+Ook de namen van de oudste en jongste familieleden zijn aangeduid.
