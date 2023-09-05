@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="m-ike1EShNYWh1237DYI" name="Page-1">
+        <mxGraphModel dx="707" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="20" value="productcode := 1" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="160" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="conditie: gekozen productcode is op voorraad" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="200" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="return geen voorraad en stop?" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="false" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="240" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="true" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="240" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="zolang beker_sensor = geen beker" style="html=1;shadow=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="320" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="actie: return &quot;beker plaatsen a.u.b.&quot;" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="360" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="serveer product met gekozen productcode" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="400" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="zolang beker_sensor = beker" style="html=1;shadow=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="440" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="actie: return &quot;beker uitnemen a.u.b.&quot;" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="480" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="beker_sensor" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="120" width="400" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
