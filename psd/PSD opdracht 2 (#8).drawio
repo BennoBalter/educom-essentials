@@ -1,0 +1,91 @@
+<mxfile host="65bd71144e">
+    <diagram id="TnkOc7A9kYncsDX2qQho" name="Page-1">
+        <mxGraphModel dx="707" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="zolang proportie_koffiemelk_koffie &amp;lt; 0.1" style="html=1;shadow=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="320" width="400" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="conditie:&amp;nbsp;afstand_inhoud_kop_tot_rand_kop &amp;gt;= 1 cm" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="360" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="true" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="400" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="actie: schenk koffiemelk in de kop" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="440" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="false" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="400" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="actie: stop met schenken" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="440" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="return: alsjeblieft buurman" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="480" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="afstand_inhoud_kop_tot_rand_kop" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="280" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="proportie_koffiemelk_koffie &amp;lt; 0.1" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="240" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="actie: stop met schenken" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="440" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="actie: schenk koffiemelk in de kop" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="440" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="false" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="400" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="zolang proportie_koffiemelk_koffie &amp;lt; 0.1" style="html=1;shadow=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="330" width="400" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="conditie:&amp;nbsp;afstand_inhoud_kop_tot_rand_kop &amp;gt;= 1 cm" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="370" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="actie: stop met schenken en giet koffie om in grotere kop" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="450" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="actie: schenk koffiemelk in de kop" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="450" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="false" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="410" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="true" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="410" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="zolang dop_op_melkfles" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="250" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="dop melkfles losdraaien" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="290" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="return: alsjeblieft buurman" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="490" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="afstand_inhoud_kop_tot_rand_kop" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="210" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="proportie_koffiemelk_koffie &amp;lt; 0.1" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="170" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="dop_op_melkfles" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="90" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="zolang dop_van_melkfles" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="530" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="dop melkfles vastdraaien" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="570" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="dop_van_melkfles" style="html=1;shadow=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="130" width="400" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
