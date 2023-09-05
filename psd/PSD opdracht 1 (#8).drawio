@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="Sm2XJWTbLF8b9xlm94pT" name="Page-1">
+        <mxGraphModel dx="707" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="conditie: persoon_staat" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="200" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="true" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="240" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="false" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="240" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="actie: sta op" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="280" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="zolang afstand_persoon_deur &amp;gt; 0" style="html=1;shadow=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="320" width="400" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="conditie: geen_obstakel&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="360" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="true" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="400" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="actie: loop vooruit" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="440" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="actie: blijf staan" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="280" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="false" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="400" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="actie: loop links of rechts" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="440" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="return: persoon is bij de deur gearriveerd" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="480" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="afstand_persoon_deur" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="120" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="persoon_staat" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="80" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="geen_obstakel" style="whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="160" width="400" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
